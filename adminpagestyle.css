@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Varela);
+
+.nav{
+    padding: 1%;
+}
+.storename{
+    background-color: #67caca;
+    padding-left: 43%;
+    padding-top: 1%;
+    padding-bottom: 15px;
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+}
+.admindetail{
+    background-color: rgb(245, 245, 105);
+    list-style-type: none;
+    padding-left: 41%;
+}
+
+body{
+    font-family: 'Varela', sans-serif;
+    font-size: 14px;
+    
+}
